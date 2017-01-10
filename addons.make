@@ -1,0 +1,6 @@
+ofxEtherdream
+ofxIlda
+ofxMSAInteractiveObject
+ofxOpenCv
+ofxSimpleGuiToo
+ofxXmlSettings
